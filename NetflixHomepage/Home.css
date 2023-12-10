@@ -1,0 +1,167 @@
+body
+{
+    background-image: url(../NetflixHomepage/NetflixWallpaper0.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+header
+{
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bolder;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: red;
+    text-shadow: 10%;
+}
+
+h2
+{
+    font-size: x-large;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+    color: aliceblue;
+    text-align: center;
+}
+
+h3
+{
+    text-align: center;
+    font-size: x-large;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: yellow;
+}
+
+nav.navbar
+{
+    text-align: center;
+    list-style-type: none;
+    overflow: hidden;
+    margin-left: 15px;
+    margin-right: 15px;
+    font-size: x-large
+}
+
+li.navitem
+{
+    display: inline-block;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: x-large;
+    text-align: center;
+}
+
+li.navitem a
+{
+    text-decoration: none;
+    color: whitesmoke;
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-bottom: 5px;
+    padding-right: 5px;
+
+}
+
+li.navitem.hovered a 
+{
+    color: red;
+}
+
+main
+{
+    align-items: center;
+}
+
+#image1
+{
+    height: 300px;
+    width: 300px;
+}
+
+#image2
+{
+    height: 300px;
+    width: 300px;
+}
+
+#image3
+{
+    height: 300px;
+    width: 300px;
+}
+
+#image4
+{
+    height: 300px;
+    width: 300px;
+}
+
+#image5
+{
+    height: 300px;
+    width: 300px;
+}
+
+#image6
+{
+    height: 300px;
+    width: 300px;
+}
+
+#image7
+{
+    height: 300px;
+    width: 300px;
+}
+
+#image8
+{
+    height: 300px;
+    width: 300px;
+}
+
+#image9
+{
+    height: 300px;
+    width: 300px;
+}
+
+figcaption
+{
+    text-align: center;
+    color: aliceblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+section.moviesection
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+section.tvshowsection
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+section.episodesection
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+footer
+{
+    color: whitesmoke;
+    font-style: italic;
+    font-weight: bold;
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
